@@ -53,4 +53,4 @@ to non-technical stakeholders.
 
 ---
 
-*"Data is not information, information is not knowledge."*<img width="1440" height="3098" alt="image" src="https://github.com/user-attachments/assets/fa59e176-fb51-4647-a4e6-46382fa7de02" />
+*"Data is not information, information is not knowledge."
