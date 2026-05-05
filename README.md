@@ -18,7 +18,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/byyogesh" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
-  </a>
+  </a><br>
   <a href="mailto:by.yogesh.in@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
   </a>
