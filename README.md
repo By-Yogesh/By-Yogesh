@@ -5,14 +5,12 @@
 
 ## About Me
 
-I'm a data science practitioner focused on building end-to-end ML solutions.
-Currently completing a Master's in Data Science — with hands-on
-experience across the full pipeline: data cleaning, EDA, feature engineering,
-model building, and business storytelling.
+- A data science practitioner focused on building end-to-end ML solutions.**
+- 🔭 Working on ML projects (prediction & analysis)**
+- 🌱 Learning LLM, NLP, and advanced ML**
+- 🤝 Open to Data Science & NLP collaborations**
+- ⚡ Exploring how data + AI can solve real business problems and improve decision-making**
 
-My background in data analytics gives me an edge —
-I understand data quality, business context, and how to communicate results
-to non-technical stakeholders.
 
 
 ## Conect With Me:
