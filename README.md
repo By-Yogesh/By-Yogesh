@@ -1,9 +1,7 @@
 <h1 align="center"> Hi, I'm Yogesh Pal 👋</h1>
 
-<h3 align="center">Aspiring Data Scientist | Python · ML · SQL · Power BI </h3>h3
-📍 Delhi NCR, India    📧 by.yogesh.in@gmail.com    🔗 [LinkedIn](https://linkedin.com/in/byyogesh)
+<h3 align="center">Aspiring Data Scientist | Python · ML · SQL · Power BI </h3>
 
----
 
 ## About Me
 
@@ -16,7 +14,6 @@ My background in data analytics gives me an edge —
 I understand data quality, business context, and how to communicate results
 to non-technical stakeholders.
 
----
 
 ## Conect With Me:
 
@@ -32,7 +29,6 @@ to non-technical stakeholders.
   </a>
 </p>
 
----
 
 ## Languages and Tools:
 
@@ -49,7 +45,6 @@ to non-technical stakeholders.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 </p>
----
 
 ## Featured Projects
 
@@ -58,7 +53,7 @@ to non-technical stakeholders.
 | 🫀 Heart Disease Prediction | Python · Sklearn | ML classification model to predict cardiac risk |
 | 📉 Customer Churn Analysis | Python · Power BI | Identified key churn drivers in 7K+ telecom records |
 | 🛒 E-Commerce Sales Analysis | Excel · MySQL | End-to-end analysis on 4,900+ records with BI dashboard |
----
+
 
 ## Currently
 
@@ -66,7 +61,6 @@ to non-technical stakeholders.
 - 📊 Deepening knowledge in model evaluation, feature engineering & statistics
 - 💼 Open to Data Science & Data Analyst roles in Delhi NCR
 
----
 
 ## Certifications
 
@@ -74,5 +68,4 @@ to non-technical stakeholders.
 - Tata GenAI Job Simulation
 - Databricks SQL Fundamentals
 
----
 
