@@ -36,16 +36,6 @@ to non-technical stakeholders.
 
 ## Languages and Tools:
 
-| Project | Tools | Description |
-|---|---|---|
-| 🫀 Heart Disease Prediction | Python · Sklearn | ML classification model to predict cardiac risk |
-| 📉 Customer Churn Analysis | Python · Power BI | Identified key churn drivers in 7K+ telecom records |
-| 🛒 E-Commerce Sales Analysis | Excel · MySQL | End-to-end analysis on 4,900+ records with BI dashboard |
-
----
-
-## Featured Projects
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
@@ -59,6 +49,15 @@ to non-technical stakeholders.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 </p>
+---
+
+## Featured Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| 🫀 Heart Disease Prediction | Python · Sklearn | ML classification model to predict cardiac risk |
+| 📉 Customer Churn Analysis | Python · Power BI | Identified key churn drivers in 7K+ telecom records |
+| 🛒 E-Commerce Sales Analysis | Excel · MySQL | End-to-end analysis on 4,900+ records with BI dashboard |
 ---
 
 ## Currently
