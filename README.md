@@ -18,16 +18,23 @@ to non-technical stakeholders.
 
 ---
 
-## Tech Stack
+## Conect With Me:
 
-**Languages:** Python · SQL (MySQL) · DAX
-**ML & Data:** Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn
-**BI & Visualization:** Power BI · Excel (Advanced)
-**Tools:** Git · GitHub · Jupyter · Google Colab
+<p align="left">
+  <a href="https://linkedin.com/in/byyogesh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+  </a>
+  <a href="mailto:by.yogesh.in@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+  </a>
+</p>
 
 ---
 
-## Featured Projects
+## Languages and Tools:
 
 | Project | Tools | Description |
 |---|---|---|
@@ -35,6 +42,23 @@ to non-technical stakeholders.
 | 📉 Customer Churn Analysis | Python · Power BI | Identified key churn drivers in 7K+ telecom records |
 | 🛒 E-Commerce Sales Analysis | Excel · MySQL | End-to-end analysis on 4,900+ records with BI dashboard |
 
+---
+
+## Featured Projects
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+</p>
 ---
 
 ## Currently
@@ -53,4 +77,3 @@ to non-technical stakeholders.
 
 ---
 
-*"Data is not information, information is not knowledge."
