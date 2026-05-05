@@ -8,11 +8,11 @@
 ## About Me
 
 I'm a data science practitioner focused on building end-to-end ML solutions.
-Currently completing a Master's in Data Science at SkillCircle™ — with hands-on
+Currently completing a Master's in Data Science — with hands-on
 experience across the full pipeline: data cleaning, EDA, feature engineering,
 model building, and business storytelling.
 
-My background in data analytics gives me an edge most ML freshers don't have —
+My background in data analytics gives me an edge —
 I understand data quality, business context, and how to communicate results
 to non-technical stakeholders.
 
