@@ -53,13 +53,6 @@
 | 🛒 E-Commerce Sales Analysis | Excel · MySQL | End-to-end analysis on 4,900+ records with BI dashboard |
 
 
-## Currently
-
-- 🤖 Building ML projects — supervised learning, classification, regression
-- 📊 Deepening knowledge in model evaluation, feature engineering & statistics
-- 💼 Open to Data Science & Data Analyst roles in Delhi NCR
-
-
 ## Certifications
 
 - Deloitte Data Analytics Simulation
