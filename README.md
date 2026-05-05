@@ -1,6 +1,6 @@
-# Hi, I'm Yogesh Pal 👋
+<h1 align="center"> Hi, I'm Yogesh Pal 👋</h1>
 
-**Aspiring Data Scientist | Python · ML · SQL · Power BI**
+<h3 align="center">Aspiring Data Scientist | Python · ML · SQL · Power BI </h3>h3
 📍 Delhi NCR, India    📧 by.yogesh.in@gmail.com    🔗 [LinkedIn](https://linkedin.com/in/byyogesh)
 
 ---
