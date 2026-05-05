@@ -5,11 +5,11 @@
 
 ## About Me
 
-- A data science practitioner focused on building end-to-end ML solutions.**
-- 🔭 Working on ML projects (prediction & analysis)**
-- 🌱 Learning LLM, NLP, and advanced ML**
-- 🤝 Open to Data Science & NLP collaborations**
-- ⚡ Exploring how data + AI can solve real business problems and improve decision-making**
+- A data science practitioner focused on building **end-to-end ML solutions.**
+- 🔭 Working on **ML projects (prediction & analysis)**
+- 🌱 Learning **LLM, NLP, and advanced ML**
+- 🤝 Open to **Data Science & NLP collaborations**
+- ⚡ Exploring how **data + AI can solve real business problems**
 
 
 
