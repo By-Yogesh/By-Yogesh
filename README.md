@@ -25,7 +25,7 @@
   <a href="https://github.com/YOUR_USERNAME" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
   </a>
-</p><br>
+</p>
 ## Languages and Tools:
 
 <p align="left">
