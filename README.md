@@ -26,8 +26,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
   </a>
 </p><br>
-
-
 ## Languages and Tools:
 
 <p align="left">
