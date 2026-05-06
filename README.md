@@ -11,8 +11,6 @@
 - 🤝 Open to **Data Science & NLP collaborations**
 - ⚡ Exploring how **data + AI can solve real business problems**
 
-
-
 ## Conect With Me:
 
 <p align="left">
@@ -49,7 +47,6 @@
 | 🫀 Heart Disease Prediction | Python · Sklearn | ML classification model to predict cardiac risk |
 | 📉 Customer Churn Analysis | Python · Power BI | Identified key churn drivers in 7K+ telecom records |
 | 🛒 E-Commerce Sales Analysis | Excel · MySQL | End-to-end analysis on 4,900+ records with BI dashboard |
-
 
 ## Certifications
 
