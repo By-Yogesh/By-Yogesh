@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Yogesh Pal 👋</h1>
 
-<h3 align="center"> Artificial Intelligence Enthusiast</h3>
+<h3 align="center">A passionate Artifical Intelligence Enthusiast</h3>
 
 
 ## About Me
