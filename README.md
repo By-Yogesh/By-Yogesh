@@ -14,14 +14,11 @@
 ## Conect With Me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/byyogesh">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/> </a>
+  <a href="https://linkedin.com/in/byyogesh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/></a>
+  <a href="mailto:by.yogesh.in@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/></a>
+  <a href="https://github.com/By-Yogesh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/></a>
+  <a href="https://instagram.com/datawithyogesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ashish_vibe" height="35" width="40" /></a>
 
-  <a href="mailto:by.yogesh.in@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/> </a>
-
-  <a href="https://www.instagram.com/datawithyogesh/">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ashish_vibe" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
