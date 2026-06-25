@@ -15,7 +15,8 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/byyogesh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg heght = '3
+      \5" 
   </a>
   <a href="mailto:by.yogesh.in@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="35" />
