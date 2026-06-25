@@ -14,10 +14,15 @@
 ## Conect With Me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/byyogesh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/></a>
-  <a href="mailto:by.yogesh.in@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/></a>
-  <a href="https://instagram.com/datawithyogesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ashish_vibe" height="35"/></a>
-
+  <a href="https://linkedin.com/in/byyogesh" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="35" />
+  </a>
+  <a href="mailto:by.yogesh.in@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="35" />
+  </a>
+  <a href="https://instagram.com/datawithyogesh" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" />
+  </a>
 </p>
 
 ## Languages and Tools:
